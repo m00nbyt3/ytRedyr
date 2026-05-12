@@ -2,12 +2,12 @@
 
 Open YT videos without the list parameter in the URL. This makes the video load much faster, specially if the list is big.
 
-## 🔗 Chrome Web Store
+## 🧩 Chrome Web Store
 
 Install it here: 
 https://chromewebstore.google.com/detail/ieahhnllfpndaemmgbbmdaadomkpiomf
 
-## 🧩 Manual installation
+## Manual installation
 
 1. Go to chrome://extensions/
 2. Enable "Developer mode"
