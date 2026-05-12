@@ -6,7 +6,7 @@ Open YT videos without the list parameter in the URL. This makes the video load 
 
 Right click on the video and select "Open without list" option.
 
-## 📄 License
+## License
 
 This project is licensed under the GNU GPL v3 - see the LICENSE file for details.
 
