@@ -1,4 +1,4 @@
-# ytRedyr
+# ytRedyr [![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue)](https://chromewebstore.google.com/detail/ieahhnllfpndaemmgbbmdaadomkpiomf)
 
 Open YT videos without the list parameter in the URL. This makes the video load much faster, specially if the list is big.
 
@@ -6,8 +6,6 @@ Open YT videos without the list parameter in the URL. This makes the video load 
 
 Install it here: 
 https://chromewebstore.google.com/detail/ieahhnllfpndaemmgbbmdaadomkpiomf
-
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-blue)](https://chromewebstore.google.com/detail/ieahhnllfpndaemmgbbmdaadomkpiomf)
 
 ## 🧩 Manual installation
 
